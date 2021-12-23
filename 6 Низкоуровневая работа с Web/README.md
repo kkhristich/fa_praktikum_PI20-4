@@ -49,5 +49,5 @@
 
 14. Реализуйте поддержку бинарных типов данных, в частночти, картинок.
 
-![image](https://user-images.githubusercontent.com/70848413/146787255-37d7e0fe-1df5-413c-94e6-0aac07e2d92a.png)
+<img width="1440" alt="Снимок экрана 2021-12-23 в 13 54 41" src="https://user-images.githubusercontent.com/89978326/147231159-e2281f49-25d4-47fd-9578-9a0d4afa35f2.png">
 
